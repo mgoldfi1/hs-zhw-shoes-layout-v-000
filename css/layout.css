@@ -25,7 +25,5 @@
  .columns {
    column-count: 3;
  }
- #right {
-   float: right;
- }
+
 /* Posititoning Classes */
