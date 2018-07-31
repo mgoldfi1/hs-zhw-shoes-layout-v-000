@@ -25,5 +25,7 @@
  .columns {
    column-count: 3;
  }
-
+ #right {
+   display: inline;
+ }
 /* Posititoning Classes */
