@@ -22,6 +22,9 @@
   clear: both;
 }
 
+ .columns {
+   column-count: 3;
+ }
 /* Posititoning Classes */
 
 
