@@ -22,9 +22,7 @@
   clear: both;
 }
 
- .columns {
+ #column {
    column-count: 3;
  }
 /* Posititoning Classes */
-
-
